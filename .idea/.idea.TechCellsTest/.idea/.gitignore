@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/contentModel.xml
+/.idea.TechCellsTest.iml
+/modules.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\Users\davla\Desktop\TechCellsTest\.idea\.idea.TechCellsTest\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

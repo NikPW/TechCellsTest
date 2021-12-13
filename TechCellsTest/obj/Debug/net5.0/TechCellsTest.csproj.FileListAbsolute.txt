@@ -1,0 +1,16 @@
+C:\Users\davla\Desktop\TechCellsTest\TechCellsTest\bin\Debug\net5.0\TechCellsTest.exe
+C:\Users\davla\Desktop\TechCellsTest\TechCellsTest\bin\Debug\net5.0\TechCellsTest.deps.json
+C:\Users\davla\Desktop\TechCellsTest\TechCellsTest\bin\Debug\net5.0\TechCellsTest.runtimeconfig.json
+C:\Users\davla\Desktop\TechCellsTest\TechCellsTest\bin\Debug\net5.0\TechCellsTest.runtimeconfig.dev.json
+C:\Users\davla\Desktop\TechCellsTest\TechCellsTest\bin\Debug\net5.0\TechCellsTest.dll
+C:\Users\davla\Desktop\TechCellsTest\TechCellsTest\bin\Debug\net5.0\ref\TechCellsTest.dll
+C:\Users\davla\Desktop\TechCellsTest\TechCellsTest\bin\Debug\net5.0\TechCellsTest.pdb
+C:\Users\davla\Desktop\TechCellsTest\TechCellsTest\obj\Debug\net5.0\TechCellsTest.csprojAssemblyReference.cache
+C:\Users\davla\Desktop\TechCellsTest\TechCellsTest\obj\Debug\net5.0\TechCellsTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davla\Desktop\TechCellsTest\TechCellsTest\obj\Debug\net5.0\TechCellsTest.AssemblyInfoInputs.cache
+C:\Users\davla\Desktop\TechCellsTest\TechCellsTest\obj\Debug\net5.0\TechCellsTest.AssemblyInfo.cs
+C:\Users\davla\Desktop\TechCellsTest\TechCellsTest\obj\Debug\net5.0\TechCellsTest.csproj.CoreCompileInputs.cache
+C:\Users\davla\Desktop\TechCellsTest\TechCellsTest\obj\Debug\net5.0\TechCellsTest.dll
+C:\Users\davla\Desktop\TechCellsTest\TechCellsTest\obj\Debug\net5.0\ref\TechCellsTest.dll
+C:\Users\davla\Desktop\TechCellsTest\TechCellsTest\obj\Debug\net5.0\TechCellsTest.pdb
+C:\Users\davla\Desktop\TechCellsTest\TechCellsTest\obj\Debug\net5.0\TechCellsTest.genruntimeconfig.cache
